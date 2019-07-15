@@ -4,7 +4,7 @@
     <ToolCommandName>wk-merge-pdf</ToolCommandName>
     <PackAsTool>true</PackAsTool>
     <PackageId>wk.MergePdf</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
